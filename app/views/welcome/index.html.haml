@@ -1,1 +1,18 @@
-%h1 This is the placeholder!
+#banner
+  .banner_content
+    %h1 File Cabinet
+    %p Your life's work. Organized, always.
+    %button= link_to "Enter", new_user_registration_path
+#callouts
+  .callout_inner
+    .wrapper
+      .callout
+        %h2 Organize
+        %p Build your Rails portfolio with 8 super cool web applications
+        in Ruby on Rails. Use it to begin seeking jobs as proof of what
+        you can do, or feel confident to launch projects.
+#bottom_cta
+  .wrapper
+    %h2 Go Ahead!
+    %br
+    %button= link_to "Join Now", new_user_registration_path
