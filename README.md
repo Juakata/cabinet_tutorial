@@ -1,16 +1,16 @@
 # README
 
-Steps to have the project working on your local machine:
+## Steps to have the project working on your local machine:
 
-## First, download the project.
+### First, download the project.
 
-## Second, access to the project from your terminal.
+### Second, access to the project from your terminal.
 
-## Third, run bundle update and bundle install.
+### Third, run bundle update and bundle install.
 
-## Fourth, run yarn install --check-files.
+### Fourth, run yarn install --check-files.
 
-## The last step, rails db:migrate.
+### The last step, rails db:migrate.
 
 
 Now you can run rails s and open the broser on http://localhost:3000/ to see my project-tutorial working.
