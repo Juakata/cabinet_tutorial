@@ -1,24 +1,13 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Steps to have the project working on your local machine:
 
-Things you may want to cover:
+First, download the project.
+Second, access to the project from your terminal.
+Third, run bundle update and bundle install.
+Fourth, run yarn install --check-files.
+The last step, rails db:migrate.
 
-* Ruby version
+Now you can run rails s and open the broser on http://localhost:3000/ to see my project-tutorial working.
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Link to the tutorial: https://www.udemy.com/course/8-beautiful-ruby-on-rails-apps-in-30-days
